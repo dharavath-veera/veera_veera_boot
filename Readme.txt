@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Laura
-Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: veera
+Template URL: https://dharavath_veera/veera_veera_boot
+Author: veera dharavath
+License: https://dharavath_veera.com
